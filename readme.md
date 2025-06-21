@@ -2,7 +2,7 @@
 
 **Decent** is a modular platform designed to support independent creators and on-chain collectives. 
 
-Our mission is to build sustainable and scalable economies from emergent cultures. 
+Our mission is to develop sustainable and scalable economies from emergent cultures. 
 
 ## Key Components
 
