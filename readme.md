@@ -7,7 +7,7 @@ Our mission is to build sustainable, permissionless economies around emergent cu
 
 ### 💬 Discourse Integration
 
-Community feedback, project proposals, and ecosystem debates are hosted on our [Discourse forum](https://forum.decent.partners). It serves as a persistent, transparent layer for:
+Community feedback, project proposals and the collective's discussions are hosted on [Discourse](https://forum.decent.partners). It serves as a persistent, transparent layer for:
 
 * Open discussion around on-chain initiatives
 * Crowdsourced ideas and roadmap proposals
@@ -21,15 +21,15 @@ Decent uses [Squarespace](https://www.squarespace.com/) to power storefronts for
 
 ### 📺 Livepeer Streaming
 
-We integrate [Livepeer](https://livepeer.org/) for decentralized, cost-effective video streaming. Live broadcasts and content archives are linked to digital storefronts, enabling seamless content-to-commerce flows.
+We integrate [Livepeer](https://livepeer.org/) for decentralised, cost-effective video streaming and real time AI. Live broadcasts and content archives are linked to digital storefronts, enabling seamless media-to-commerce flows.
 
 ### 🪙 On-Chain Incentives
 
 Our ecosystem is powered by:
 
-* **dUSD** – a yield-bearing stablecoin used for payments and creator economies
-* **KAB** – minted automatically based on real economic activity (e.g., sales, viewership), serving as the native unit of value
+* **dUSD** – a yield-bearing stablecoin used for payments with yield recirculated back into the ecosystem.
 * **Points** – a loyalty layer offering cashback to customers and tracking economic contributions for merchants
+* **KAB** – the underlying network and ownership protocol that confers legally enforceable rights and obligations.
 
 ### 🧩 Modular Design
 
