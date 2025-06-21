@@ -1,6 +1,7 @@
 # Decent Platform
 
-**Decent** is a modular platform for creative commerce, blending Web2 tools with Web3 infrastructure to support independent creators and on-chain organizations. Our mission is to build sustainable, permissionless economies around culture, content, and community.
+**Decent** is a modular platform designed to support independent creators and on-chain collectives. 
+Our mission is to build sustainable, permissionless economies around emergent culture. 
 
 ## Key Components
 
