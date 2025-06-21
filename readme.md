@@ -25,10 +25,10 @@ We integrate [Livepeer](https://livepeer.org/) for decentralised, cost-effective
 
 ### 🪙 On-Chain Incentives
 
-Our ecosystem is powered by:
+The Decent ecosystem is built on and around:
 
 * **dUSD** – a yield-bearing stablecoin used for payments with yield recirculated back into the ecosystem.
-* **Points** – a loyalty layer offering cashback to customers and tracking economic contributions for merchants
+* **points** – a loyalty layer offering cashback to customers and tracking economic contributions for merchants
 * **KAB** – the underlying network and ownership protocol that confers legally enforceable rights and obligations.
 
 ### 🧩 Modular Design
