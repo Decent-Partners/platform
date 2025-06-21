@@ -1,4 +1,4 @@
-# Decent Platform
+# Decent platform
 
 **Decent** is a modular platform designed to support independent creators and on-chain collectives. 
 Our mission is to build sustainable, permissionless economies around emergent culture. 
