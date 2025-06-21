@@ -42,4 +42,6 @@ Decent is designed to plug into existing creative tools and extend them with on-
 
 ## Get Involved
 
-We welcome collaborators, contributors, and creators interested in building with Decent. Explore the repo, open issues, or visit [decent.partners](https://decent.partners) to learn more.
+We welcome collaborators, contributors, and creators interested in building with Decent. 
+
+Explore the repo, open issues, or visit [decent.partners](https://decent.partners) to learn more.
